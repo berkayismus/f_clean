@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/banner.png" alt="F-Clean Banner" width="100%" />
+</p>
+
 # F-Clean
 
 > **[English](#english) | [Türkçe](#türkçe)**
