@@ -1,0 +1,8 @@
+base_locale: en
+input_directory: lib/core/l10n
+input_file_pattern: .i18n.json
+output_directory: lib/core/l10n
+output_file_name: strings.g.dart
+output_format: single_file
+locale_handling: true
+flutter_integration: true

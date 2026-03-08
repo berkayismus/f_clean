@@ -1,0 +1,56 @@
+{
+  "app": {
+    "name": "F Clean"
+  },
+  "auth": {
+    "loginTitle": "Tekrar Hoşgeldiniz",
+    "loginSubtitle": "Devam etmek için giriş yapın",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "loginButton": "Giriş Yap",
+    "logoutButton": "Çıkış Yap",
+    "forgotPassword": "Şifremi unuttum?",
+    "emailRequired": "E-posta zorunludur",
+    "passwordRequired": "Şifre zorunludur",
+    "invalidEmail": "Geçersiz e-posta adresi"
+  },
+  "dashboard": {
+    "title": "Gösterge Paneli",
+    "welcome": "Hoşgeldiniz, {name}!",
+    "welcomeBack": "Tekrar hoşgeldiniz,",
+    "recentActivity": "Son Aktiviteler",
+    "projects": "Projeler",
+    "tasks": "Görevler",
+    "done": "Tamamlanan"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "appearance": "Görünüm",
+    "theme": "Tema",
+    "language": "Dil",
+    "english": "English",
+    "turkish": "Türkçe",
+    "darkMode": "Koyu Mod",
+    "lightMode": "Açık Mod",
+    "systemMode": "Sistem Varsayılanı",
+    "developerTools": "Geliştirici Araçları",
+    "logs": "Loglar",
+    "viewAppLogs": "Uygulama loglarını görüntüle"
+  },
+  "common": {
+    "ok": "Tamam",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "success": "Başarılı"
+  },
+  "errors": {
+    "network": "İnternet bağlantısı yok",
+    "server": "Sunucu hatası. Lütfen tekrar deneyin.",
+    "unauthorized": "Oturum süresi doldu. Lütfen tekrar giriş yapın.",
+    "unknown": "Bir şeyler ters gitti"
+  }
+}

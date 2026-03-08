@@ -1,0 +1,56 @@
+{
+  "app": {
+    "name": "F Clean"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to continue",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "loginButton": "Sign In",
+    "logoutButton": "Sign Out",
+    "forgotPassword": "Forgot password?",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "invalidEmail": "Invalid email address"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome, {name}!",
+    "welcomeBack": "Welcome back,",
+    "recentActivity": "Recent Activity",
+    "projects": "Projects",
+    "tasks": "Tasks",
+    "done": "Done"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "language": "Language",
+    "english": "English",
+    "turkish": "Türkçe",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "systemMode": "System Default",
+    "developerTools": "Developer Tools",
+    "logs": "Logs",
+    "viewAppLogs": "View app logs"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "success": "Success"
+  },
+  "errors": {
+    "network": "No internet connection",
+    "server": "Server error. Please try again.",
+    "unauthorized": "Session expired. Please login again.",
+    "unknown": "Something went wrong"
+  }
+}
